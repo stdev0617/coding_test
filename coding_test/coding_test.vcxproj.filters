@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\implementation">
       <UniqueIdentifier>{46dde994-68f4-491c-876a-a1981c855c9b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\dfs_bfs">
+      <UniqueIdentifier>{c709b49f-a47d-4268-b60b-708d538e10bd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="night_of_kingdom.cpp">
@@ -29,6 +32,12 @@
     </ClCompile>
     <ClCompile Include="game_development.cpp">
       <Filter>소스 파일\implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="eating_icing_beverage.cpp">
+      <Filter>소스 파일\dfs_bfs</Filter>
+    </ClCompile>
+    <ClCompile Include="escaping_maze.cpp">
+      <Filter>소스 파일\dfs_bfs</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
