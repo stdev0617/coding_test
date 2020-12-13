@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\dfs_bfs">
       <UniqueIdentifier>{c709b49f-a47d-4268-b60b-708d538e10bd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\sorting">
+      <UniqueIdentifier>{3bcd9705-9980-4336-9e4d-0a477df83d93}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="night_of_kingdom.cpp">
@@ -38,6 +41,15 @@
     </ClCompile>
     <ClCompile Include="escaping_maze.cpp">
       <Filter>소스 파일\dfs_bfs</Filter>
+    </ClCompile>
+    <ClCompile Include="up_and_down.cpp">
+      <Filter>소스 파일\sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="print_name_from_low_point.cpp">
+      <Filter>소스 파일\sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="change_element_of_two_arrays.cpp">
+      <Filter>소스 파일\sorting</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
