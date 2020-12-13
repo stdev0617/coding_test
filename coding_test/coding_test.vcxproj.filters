@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\sorting">
       <UniqueIdentifier>{3bcd9705-9980-4336-9e4d-0a477df83d93}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\binary_search">
+      <UniqueIdentifier>{d3543003-0efc-4ba2-954a-cd646b304cb9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="night_of_kingdom.cpp">
@@ -50,6 +53,12 @@
     </ClCompile>
     <ClCompile Include="change_element_of_two_arrays.cpp">
       <Filter>소스 파일\sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="finding_component.cpp">
+      <Filter>소스 파일\binary_search</Filter>
+    </ClCompile>
+    <ClCompile Include="making_ddukbokki-dduk.cpp">
+      <Filter>소스 파일\binary_search</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
