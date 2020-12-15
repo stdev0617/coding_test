@@ -1,3 +1,3 @@
-﻿  rearrange_string.cpp
-C:\Users\owner\source\repos\coding_test\coding_test\rearrange_string.cpp(13,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+﻿  string_compression.cpp
+C:\Users\owner\source\repos\coding_test\coding_test\string_compression.cpp(12,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   coding_test.vcxproj -> C:\Users\owner\source\repos\coding_test\Debug\coding_test.exe

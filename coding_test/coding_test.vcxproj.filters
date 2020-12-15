@@ -117,5 +117,8 @@
     <ClCompile Include="rearrange_string.cpp">
       <Filter>소스 파일\implementation\practice</Filter>
     </ClCompile>
+    <ClCompile Include="string_compression.cpp">
+      <Filter>소스 파일\implementation\practice</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
