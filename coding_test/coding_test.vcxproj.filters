@@ -28,58 +28,94 @@
     <Filter Include="소스 파일\greedy">
       <UniqueIdentifier>{a7965514-cc50-454f-af57-680601ccf6e8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\implementation\practice">
+      <UniqueIdentifier>{8c2f2ff5-7a4b-466d-a647-1e79f5ef4d99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\implementation\basic">
+      <UniqueIdentifier>{c2aeaf7e-412e-476b-8013-f7cec221d3bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\greedy\basic">
+      <UniqueIdentifier>{4dd0d85e-edd6-4bd6-8e72-6e458b89fad4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\greedy\practice">
+      <UniqueIdentifier>{f0226dd5-617c-4bdf-a923-89e03f65b0f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\dfs_bfs\basic">
+      <UniqueIdentifier>{65510a5a-acb9-4c3e-8a38-09b2abb8ae7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\dfs_bfs\practice">
+      <UniqueIdentifier>{27fc7210-d8b1-4ad2-9daa-8fe28db9c0c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\binary_search\basic">
+      <UniqueIdentifier>{705440d2-f04b-45d7-9463-0ba97f52a398}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\binary_search\practice">
+      <UniqueIdentifier>{cd0a253b-2755-4efa-ab04-492ee8367425}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\sorting\basic">
+      <UniqueIdentifier>{d865cec2-c5c8-44d6-988c-90695dcb0c89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\sorting\practice">
+      <UniqueIdentifier>{1110bac0-8cb2-4615-9acc-ffdb1ddbec92}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="night_of_kingdom.cpp">
-      <Filter>소스 파일\implementation</Filter>
+    <ClCompile Include="game_development.cpp">
+      <Filter>소스 파일\implementation\basic</Filter>
     </ClCompile>
-    <ClCompile Include="up_down_left_right.cpp">
-      <Filter>소스 파일\implementation</Filter>
+    <ClCompile Include="night_of_kingdom.cpp">
+      <Filter>소스 파일\implementation\basic</Filter>
     </ClCompile>
     <ClCompile Include="time.cpp">
-      <Filter>소스 파일\implementation</Filter>
+      <Filter>소스 파일\implementation\basic</Filter>
     </ClCompile>
-    <ClCompile Include="game_development.cpp">
-      <Filter>소스 파일\implementation</Filter>
-    </ClCompile>
-    <ClCompile Include="eating_icing_beverage.cpp">
-      <Filter>소스 파일\dfs_bfs</Filter>
-    </ClCompile>
-    <ClCompile Include="escaping_maze.cpp">
-      <Filter>소스 파일\dfs_bfs</Filter>
-    </ClCompile>
-    <ClCompile Include="up_and_down.cpp">
-      <Filter>소스 파일\sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="print_name_from_low_point.cpp">
-      <Filter>소스 파일\sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="change_element_of_two_arrays.cpp">
-      <Filter>소스 파일\sorting</Filter>
-    </ClCompile>
-    <ClCompile Include="finding_component.cpp">
-      <Filter>소스 파일\binary_search</Filter>
-    </ClCompile>
-    <ClCompile Include="making_ddukbokki-dduk.cpp">
-      <Filter>소스 파일\binary_search</Filter>
+    <ClCompile Include="up_down_left_right.cpp">
+      <Filter>소스 파일\implementation\basic</Filter>
     </ClCompile>
     <ClCompile Include="adventurer_guild.cpp">
-      <Filter>소스 파일\greedy</Filter>
-    </ClCompile>
-    <ClCompile Include="multiply_or_plus.cpp">
-      <Filter>소스 파일\greedy</Filter>
-    </ClCompile>
-    <ClCompile Include="reversing_string.cpp">
-      <Filter>소스 파일\greedy</Filter>
-    </ClCompile>
-    <ClCompile Include="price_not_makingcpp.cpp">
-      <Filter>소스 파일\greedy</Filter>
-    </ClCompile>
-    <ClCompile Include="bowling_selection.cpp">
-      <Filter>소스 파일\greedy</Filter>
+      <Filter>소스 파일\greedy\practice</Filter>
     </ClCompile>
     <ClCompile Include="live_eating_broadcast_of_muzy.cpp">
-      <Filter>소스 파일\greedy</Filter>
+      <Filter>소스 파일\greedy\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="price_not_makingcpp.cpp">
+      <Filter>소스 파일\greedy\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="reversing_string.cpp">
+      <Filter>소스 파일\greedy\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="multiply_or_plus.cpp">
+      <Filter>소스 파일\greedy\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="bowling_selection.cpp">
+      <Filter>소스 파일\greedy\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="eating_icing_beverage.cpp">
+      <Filter>소스 파일\dfs_bfs\basic</Filter>
+    </ClCompile>
+    <ClCompile Include="escaping_maze.cpp">
+      <Filter>소스 파일\dfs_bfs\basic</Filter>
+    </ClCompile>
+    <ClCompile Include="finding_component.cpp">
+      <Filter>소스 파일\binary_search\basic</Filter>
+    </ClCompile>
+    <ClCompile Include="making_ddukbokki-dduk.cpp">
+      <Filter>소스 파일\binary_search\basic</Filter>
+    </ClCompile>
+    <ClCompile Include="change_element_of_two_arrays.cpp">
+      <Filter>소스 파일\sorting\basic</Filter>
+    </ClCompile>
+    <ClCompile Include="print_name_from_low_point.cpp">
+      <Filter>소스 파일\sorting\basic</Filter>
+    </ClCompile>
+    <ClCompile Include="up_and_down.cpp">
+      <Filter>소스 파일\sorting\basic</Filter>
+    </ClCompile>
+    <ClCompile Include="lucky_straight.cpp">
+      <Filter>소스 파일\implementation\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="rearrange_string.cpp">
+      <Filter>소스 파일\implementation\practice</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
