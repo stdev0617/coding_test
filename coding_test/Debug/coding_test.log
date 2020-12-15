@@ -1,3 +1,4 @@
-﻿  making_ddukbokki-dduk.cpp
-c:\users\yoon\source\repos\coding_test\coding_test\making_ddukbokki-dduk.cpp(15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+﻿  live_eating_broadcast_of_muzy.cpp
+c:\users\yoon\source\repos\coding_test\coding_test\live_eating_broadcast_of_muzy.cpp(33): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\yoon\source\repos\coding_test\coding_test\live_eating_broadcast_of_muzy.cpp(62): warning C4715: 'solution': 모든 제어 경로에서 값을 반환하지는 않습니다.
   coding_test.vcxproj -> C:\Users\Yoon\source\repos\coding_test\Debug\coding_test.exe
