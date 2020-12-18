@@ -1,15 +1,4 @@
-﻿  failRate.cpp
-C:\Users\owner\source\repos\coding_test\coding_test\failRate.cpp(29,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\owner\source\repos\coding_test\coding_test\failRate.cpp(57,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\utility(246,1): warning C4244: '초기화 중': '_Ty'에서 '_Ty2'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-          with
-          [
-              _Ty=double
-          ]
-          and
-          [
-              _Ty2=float
-          ]
-C:\Users\owner\source\repos\coding_test\coding_test\failRate.cpp(41): message : 컴파일되는 함수 템플릿 인스턴스화 'std::pair<int,float>::pair<int,double,0>(std::pair<int,double> &&) noexcept'에 대한 참조를 확인하세요.
-C:\Users\owner\source\repos\coding_test\coding_test\failRate.cpp(41): message : 컴파일되는 함수 템플릿 인스턴스화 'std::pair<int,float>::pair<int,double,0>(std::pair<int,double> &&) noexcept'에 대한 참조를 확인하세요.
+﻿  sorting_cards.cpp
+C:\Users\owner\source\repos\coding_test\coding_test\sorting_cards.cpp(17,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\owner\source\repos\coding_test\coding_test\sorting_cards.cpp(25,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   coding_test.vcxproj -> C:\Users\owner\source\repos\coding_test\Debug\coding_test.exe
