@@ -120,5 +120,14 @@
     <ClCompile Include="string_compression.cpp">
       <Filter>소스 파일\implementation\practice</Filter>
     </ClCompile>
+    <ClCompile Include="korean_english_math.cpp">
+      <Filter>소스 파일\sorting\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="antenna.cpp">
+      <Filter>소스 파일\sorting\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="failRate.cpp">
+      <Filter>소스 파일\sorting\practice</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
