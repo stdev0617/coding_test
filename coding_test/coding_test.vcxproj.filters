@@ -132,5 +132,14 @@
     <ClCompile Include="sorting_cards.cpp">
       <Filter>소스 파일\sorting\practice</Filter>
     </ClCompile>
+    <ClCompile Include="%28unsolved%29finding_specific_number_among_sorted_array.cpp">
+      <Filter>소스 파일\binary_search\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="%28unsolved%29lock_and_key.cpp">
+      <Filter>소스 파일\implementation\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="change_bracket.cpp">
+      <Filter>소스 파일\dfs_bfs\practice</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
