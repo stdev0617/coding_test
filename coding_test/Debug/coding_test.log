@@ -1,3 +1,3 @@
-﻿  change_bracket.cpp
-C:\Users\Yoon\source\repos\coding_test\coding_test\change_bracket.cpp(13,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+﻿  snake.cpp
+C:\Users\Yoon\source\repos\coding_test\coding_test\snake.cpp(15,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   coding_test.vcxproj -> C:\Users\Yoon\source\repos\coding_test\Debug\coding_test.exe

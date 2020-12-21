@@ -141,5 +141,8 @@
     <ClCompile Include="change_bracket.cpp">
       <Filter>소스 파일\dfs_bfs\practice</Filter>
     </ClCompile>
+    <ClCompile Include="snake.cpp">
+      <Filter>소스 파일\implementation\practice</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
