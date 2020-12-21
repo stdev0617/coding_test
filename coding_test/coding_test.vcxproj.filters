@@ -144,5 +144,11 @@
     <ClCompile Include="snake.cpp">
       <Filter>소스 파일\implementation\practice</Filter>
     </ClCompile>
+    <ClCompile Include="%28need_review%29deliverying_chicken.cpp">
+      <Filter>소스 파일\implementation\practice</Filter>
+    </ClCompile>
+    <ClCompile Include="pillar_and_beam.cpp">
+      <Filter>소스 파일\implementation\practice</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
